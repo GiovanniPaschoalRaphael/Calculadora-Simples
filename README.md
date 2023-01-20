@@ -29,4 +29,4 @@ pronto o sistema está no servidor local <br>
 
 ![image](https://user-images.githubusercontent.com/55327081/213806722-85500c33-127c-41cd-afe3-1d51d967e296.png)
 
-http://localhost/calculadora/
+Para acessar o projeto acesse o seguinte caminho na barra de pesquisa do navedador http://localhost/calculadora/
