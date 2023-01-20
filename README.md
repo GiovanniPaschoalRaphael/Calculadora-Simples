@@ -22,7 +22,6 @@ PARA O WAMP Antes de tudo abra o wamp e ligue todos os serviços 1°Abra a pasta
 4°tire os arquivos do winrar deste projeto dentro da pasta wwww <br>
 pronto o sistema está no servidor local <br> 
 
-Vamos colocar o Banco de dados no PhoMyAdmin 1°deixe o apache e o mysql ligados no server que você escolheu!! meu caso é o xampp
 
 ![image](https://user-images.githubusercontent.com/55327081/213804908-505f9ed0-17fa-459c-9942-c4096c765389.png)
 ![image](https://user-images.githubusercontent.com/55327081/213804828-dadaf3a4-b0b0-4030-bae6-bad9f2e3190d.png)
